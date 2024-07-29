@@ -1,22 +1,14 @@
-# Roblox-Cookie-Refresh
+# Roblox Cookie Ip Lock bypasser 
+Website - https://rblxfresh.net/
+Discord server - https://discord.gg/PnMetyMbrQ
 
-Roblox Cookie Refresher in Node.js, it can be dualhooked and you can host it on a site like onrender.com, replace the webhook in `server.js`.
+What is a cookie refresher and why is it needed ?
 
-# Showcase
-https://streamable.com/8wxuz8
+There is ip lock protection in roblox. Our refresher removes the ip lock from any cookie and gives you the ability to go to it from any ip and not break the cookie
 
-## Getting Started
+Why use our refresher ? / Почему стоит использовать наш рефрешер ?
 
-1. Go to [onrender.com](https://onrender.com) and search for a web development app that supports Node.js.
-2. Click on "Create New Project" and upload the necessary files.
-3. Dualhook the app in the `server.js` file.
-
-## Usage
-
-To start the application on onrender.com, use the following command:
-
-```bash
-node installer.js
-```
-
-## FOLLOW MY FRIEND ON GITHUB! : https://github.com/EvilBytecode?tab=repositories
+🔥1) Our fresher freshes cookies from all countries ( All cookies will be valid ! )
+🔥2) We dont check your cookies and we dont steal robux from cookies
+🔥3) We have a dual-hook system
+🔥4) Our website is maintained 24/7
